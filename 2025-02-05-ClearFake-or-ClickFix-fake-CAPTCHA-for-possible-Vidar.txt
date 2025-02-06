@@ -1,5 +1,9 @@
 2025-02-05 (THURSDAY): CLEARFAKE/CLICKFIX FAKE CAPTCHA LEADS TO POSSIBLE VIDAR
 
+NOTE:
+
+- The C2 for this infection has been identified as Lumma Stealer instead of Vidar.
+
 REFERENCES:
 
 - https://www.linkedin.com/posts/bradley-duncan-13477868_clearfake-clickfix-vidar-activity-7293070852906958848-QKyU/
@@ -26,7 +30,7 @@ TRAFFIC GENERATED AFTGER RUNNING THE COPY/PASTED SCRIPT:
 - hxxps[:]//bitlunch.smogturfprance[.]shop/e7f2-4033-awjxs.captcha
 - hxxps[:]//www.mediafire[.]com/file_premium/pzse74za05xo46l/nrjjpi.mp4/file
 
-HTTPS POST-INFECTION TRAFFIC (POSSIBLE VIDAR):
+HTTPS POST-INFECTION TRAFFIC:
 
 - [Cloudflare IP address]:443 - eteherealpath[.]top - HTTPS, TLSv1.3 traffic
 
@@ -48,4 +52,4 @@ ASSOCIATED FILES:
 - File size: 1,196,032 bytes
 - File type: data
 - File location: hxxps[:]//www.mediafire[.]com/file_premium/pzse74za05xo46l/nrjjpi.mp4/file
-- File description: Encoded/encrypted binary for possible Vidar malware
+- File description: Encoded/encrypted binary for final malware
