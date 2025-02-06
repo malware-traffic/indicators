@@ -1,5 +1,12 @@
 2025-02-05 (THURSDAY): CLEARFAKE/CLICKFIX FAKE CAPTCHA LEADS TO POSSIBLE VIDAR
 
+REFERENCES:
+
+- https://www.linkedin.com/posts/bradley-duncan-13477868_clearfake-clickfix-vidar-activity-7293070852906958848-QKyU/
+- https://bsky.app/profile/malware-traffic-analysis.net/post/3lhhvbscqmk2l
+- https://infosec.exchange/@malware_traffic/113954217780980519
+- https://x.com/malware_traffic/status/1887305751636414713
+
 COMPROMISED WEBSITE:
 
 - www.705arcade[.]ca
