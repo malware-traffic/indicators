@@ -2,7 +2,7 @@
 
 NOTE:
 
-- The C2 for this infection has been identified as Lumma Stealer instead of Vidar.
+- The C2 for this infection has been identified as Lumma Stealer instead of Vidar: https://threatfox.abuse.ch/ioc/1405142/
 
 REFERENCES:
 
