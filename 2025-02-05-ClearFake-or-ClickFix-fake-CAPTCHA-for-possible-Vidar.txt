@@ -41,4 +41,4 @@ ASSOCIATED FILES:
 - File size: 1,196,032 bytes
 - File type: data
 - File location: hxxps[:]//www.mediafire[.]com/file_premium/pzse74za05xo46l/nrjjpi.mp4/file
-- File description: Encoded/encrypted binary for possibly Vidar
+- File description: Encoded/encrypted binary for possible Vidar malware
