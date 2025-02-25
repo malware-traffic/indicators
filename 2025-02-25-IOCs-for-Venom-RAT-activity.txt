@@ -1,0 +1,51 @@
+2025-02-25 (TUESDAY): VENOM RAT ACTIVITY
+
+EMAIL HEADERS:
+
+- Received: from mm2ng[.]cam (mm2ng[.]cam [84.54.51[.]173]) by [info removed];
+      Tue, 25 Feb 2025 11:32:57 +0100 (CET)
+- From: =?UTF-8?Q?mikael_jansson_=3Cmikael=E2=93=90mrtuning=2Ese=3E?=
+      <notifications@mm2ng[.]cam>
+- To: undisclosed-recipients:;
+- Subject: MrTUNNING AB / PO-TS006630009
+- Message-ID: <1ccdced054e3b14970017a5ccb07fe68@mm2ng[.]cam>
+- Attachment name: PO-TS006630009-MRTUNNING.zip
+
+EMAIL ATTACHMENT:
+
+- SHA256 hash: 4576ade63d6ef9e10947afe22b67fc5736e5e2105348506bc319d6dd2a111657
+- File size: 216,797 bytes
+- File name: PO-TS006630009-MRTUNNING.zip
+- File Type: Zip archive data, at least v2.0 to extract
+
+EXTRACTED VIRTUAL HARD DISK (VHD) FILE:
+
+- SHA256 hash: 4ba8c6423baebb9f4b7477ad18b7620e57c7e6c48467e91a31273cb2c119676d
+- File size: 9,437,696 bytes
+- File name: PO-TS006630009-MRTUNNING.vhd
+- File Type: DOS/MBR boot sector; partition 1 : ID=0x7, start-CHS (0x0,2,3), end-CHS (0x0,229,37), startsector 128, 14336 sectors, extended partition table (last)
+
+VISUAL BASIC SCRIPT (VBS) FILE FROM THE ABOVE VHD FILE:
+
+- SHA256 hash: 63c3aae8844fd125a8c5251bd7b03b9e7554fb06ee06fa7c46c7ec766233ac0b
+- File size: 99,111 bytes
+- File name: PO-TS006630009-MRTUNNING.vbs
+- File Type: ASCII text, with CRLF line terminators
+
+INFECTION TRAFFIC:
+
+- hxxps[:]//pastebin[.]com/raw/93hjERwM  <-- returned IP address and TCP port for C2 server
+- 193.187.91[.]281:55016  <-- C2 traffic, HTTPS TLSv1.0 
+
+C2 SERVER HTTPS CERTIFICATE ISSUER INFORMATION:
+
+- at-at-commonName=VenomRAT Server
+- at-at-organizationalUnitName=qwqdanchun
+- at-at-organizationName=VenomRAT by qwqdanchun
+- at-at-localityName=SH
+- at-at-CountryName=CN
+
+C2 SERVER HTTPS CERTIFICATE VALIDITY INFORMATION:
+
+- notBefore: utcTime: 2022-08-14 09:41:09 (UTC)
+- notAfter: utcTime: 2033-05-23 09:41:09 (UTC)
