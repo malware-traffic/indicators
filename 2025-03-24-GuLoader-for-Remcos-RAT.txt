@@ -1,0 +1,49 @@
+2025-03-24 (MONDAY): GULOADER FOR REMCOS RAT
+
+INFECTION CHAIN OF EVENTS:
+
+- email --> zip attachment --> extracted EXE for GuLoader --> GuLoader retrieves encoded/encrypted binary --> Remcos RAT C2 traffic
+
+SELECT HEADERS FROM THE EMAIL:
+
+- Received: from eth2.wheatusa.com (eth2.wheatusa[.]com [198.46.211[.]183])
+     [information removed]; Mon, 24 Mar 2025 05:14:00 +0000 (UTC)
+- From: "=?UTF-8?B?QW5kaSDFnkFIxLBO?=" <update@wheatusa[.]com>
+- Subject: Quotation Request | PO-3242520
+- Date: 23 Mar 2025 22:13:58 -0700
+- Message-ID: <20250323221358.3AF1BED63E870362@wheatusa[.]com>
+- Attachment name: PO-3242520.zip
+
+ASSOCIATED FILES:
+
+- SHA256 hash: 90a25013623e2abe0d2bc45ac51395c7ef5b7f26a407bbbd53d2bf9dd07ab454
+- File size: 664,656 bytes
+- File name: PO-3242520.zip
+- File type: Zip archive data, at least v2.0 to extract
+- File description: zip archive attached to email 
+
+- SHA256 hash: 6b360c2069f357d8d3c9be08c691e45d97154a6f3ae378353a75ab90dd9a464f
+- File size: 748,273 bytes
+- File name: PO-3242520.pif
+- File type: PE32 executable (GUI) Intel 80386, for MS Windows, Nullsoft Installer self-extracting archive
+- File description: GuLoader for Remcos RAT
+
+- SHA256 hash: a33e8025271934b9a5d27e8afb1aff2769c4114de27214a5feb386b03724c5fe
+- File size: 498,752 bytes
+- File location: hxxps[:]//drive.google[.]com/uc?export=download&id=19ZrktsMMZnUS9W7UxksdyE4skK75VYd2
+- File type: data
+- File description: Data binary retreived by GuLoader for Remcos RAT
+
+TRAFFIC FROM AN INFECTION:
+
+GULOADER RETRIEVES ENCODED/ENCRYPTED BINARY:
+
+- hxxps[:]//drive.google[.]com/uc?export=download&id=19ZrktsMMZnUS9W7UxksdyE4skK75VYd2
+
+REMCOS RAT C2 TRAFFIC:
+
+- 176.65.142[.]81 port 9090 - TLSv1.3 traffic
+
+LOCATION CHECK BY INFECTED WINDOWS HOST:
+
+- hxxp[:]//geoplugin[.]/net/json.gp
