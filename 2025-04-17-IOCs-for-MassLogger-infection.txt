@@ -1,0 +1,46 @@
+2025-04-17 (THURSDAY): EMAIL WITH MALICIOUS ATTACHMENT FOR MASSLOGGER MALWARE
+
+SELECTED EMAIL HEADERS:
+
+- Received: from [45.141.233[.]51] (unknown [45.141.233[.]51]) [information removed]
+- Reply-To: Ghufran.ameenAlhajjaj-kentplc.com <jameskeaney20@gmail[.]com>
+- From: Ghufran.ameenAlhajjaj@kentplc[.]com
+- To: brad@malware-traffic-analysis[.]net
+- Subject: SOA BANK  RE-CONFIRMATION // REMITTANCE DATE 18.04.2025
+- Date: 17 Apr 2025 03:52:11 -0700
+- Message-ID: <20250417035211.1995195ACFF1C9FA@kentplc[.]com>
+
+- Attachment; filename="SOA BANK RE-CONFIRMATION.rar"
+- Attachment; filename="SOA BANK RE-CONFIRMATION.uue"
+
+EMAIL ATTACHMENT:
+
+- SHA256 hash: 2989df89b41abf5ecaafeb45715b6d0536513f0f6b7a5c8decee4dca4d416bd8
+- File size: 58,894 bytes
+- File type: RAR archive data, v5
+- File name: SOA BANK RE-CONFIRMATION.rar
+- File name: SOA BANK RE-CONFIRMATION.uue
+
+EXTRACTED SCRIPT FILE:
+
+- SHA256 hash: 72e2c85f16c8dfd68b73adb136310e1b0159c7503213b232835c71b5e4a913e4
+- File size: 120,049 bytes
+- File name: ASCII text, with very long lines, with CRLF line terminators
+- File type: SOA BANK RE-CONFIRMATION.js
+- Sandbox Analysis: https://tria.ge/250418-cdr1ls1ks8
+
+TRAFFIC FROM AN INFECTION IN MY LAB:
+
+Date/time                Destination IP   port    Destination domain     Info
+-----------------------  ---------------  ------  ---------------------  --------------
+2025-04-18 01:56:18 UTC  193.122.6[.]168  80      checkip.dyndns[.]org   GET / HTTP/1.1 
+2025-04-18 01:56:18 UTC  193.122.6[.]168  80      checkip.dyndns[.]org   GET / HTTP/1.1 
+2025-04-18 01:56:18 UTC  104.21.112[.]1   443     reallyfreegeoip[.]org  HTTPS traffic
+2025-04-18 01:56:23 UTC  193.122.6[.]168  80      checkip.dyndns[.]org   GET / HTTP/1.1 
+2025-04-18 01:56:37 UTC  148.113.1[.]235  587     mail.bouttases[.]fr    TLS traffic
+
+MAIL SERVER INFO FOR THIS MASSLOGGER SAMPLE:
+
+- Email server: mail.bouttases[.]fr
+- Sending email account: admin@bouttases[.]fr
+- Receiving email account: collect@bouttases[.]fr
