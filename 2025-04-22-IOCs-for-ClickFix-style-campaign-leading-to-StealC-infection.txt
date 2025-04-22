@@ -36,7 +36,7 @@ ASSOCIATED FILES:
 - SHA256 hash: 9efb3b655d41be4ed8b3fba0b7f34f90cc7861da036cd3e3eff59f4fba0ff805
 - File size: 748,544 bytes
 - File type: PE32+ executable (GUI) x86-64, for MS Windows
-- File location:  hxxps[:]//roadmap.kropentine[.]sbs/84irujfg543.bin
+- File location: hxxps[:]//roadmap.kropentine[.]sbs/84irujfg543.bin
 - File description: 64-bit EXE file for StealC
 - Sandbox analysis: https://app.any.run/tasks/856ee781-1334-4ed4-9430-72dbf41ff396
 - Sandbox analysis: https://tria.ge/submit/250422-vm2khs11aw
