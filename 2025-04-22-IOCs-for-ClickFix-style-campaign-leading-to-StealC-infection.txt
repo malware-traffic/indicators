@@ -38,4 +38,5 @@ ASSOCIATED FILES:
 - File type: PE32+ executable (GUI) x86-64, for MS Windows
 - File location:  hxxps[:]//roadmap.kropentine[.]sbs/84irujfg543.bin
 - File description: 64-bit EXE file for StealC
-
+- Sandbox analysis: https://app.any.run/tasks/856ee781-1334-4ed4-9430-72dbf41ff396
+- Sandbox analysis: https://tria.ge/submit/250422-vm2khs11aw
