@@ -4,6 +4,7 @@ REFERENCES:
 
 - https://infosec.exchange/@malware_traffic/114756862448741046
 - https://bsky.app/profile/malware-traffic-analysis.net/post/3lsmdw2cuq227
+- https://www.linkedin.com/posts/bradley-duncan-13477868_smartapesg-clickfix-netsupport-activity-7344444247430832128-fVZj/
 
 URL SEQUENCE LEADING TO CLICKFIX PAGE:
 
