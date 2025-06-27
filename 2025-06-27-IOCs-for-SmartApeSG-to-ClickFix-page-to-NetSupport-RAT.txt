@@ -3,7 +3,7 @@
 REFERENCES:
 
 - https://infosec.exchange/@malware_traffic/114756862448741046
-- 
+- https://bsky.app/profile/malware-traffic-analysis.net/post/3lsmdw2cuq227
 
 URL SEQUENCE LEADING TO CLICKFIX PAGE:
 
