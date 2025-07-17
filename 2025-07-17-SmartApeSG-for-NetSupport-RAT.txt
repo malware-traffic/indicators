@@ -3,6 +3,7 @@
 REFERENCES:
 
 - https://infosec.exchange/@monitorsg/114867563467717172
+- https://bsky.app/profile/malware-traffic-analysis.net/post/3lu64agx45k2h
 
 COMPROMISED WEBSITE WITH INJECTED SMARTAPESG SCRIPT:
 
