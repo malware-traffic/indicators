@@ -1,0 +1,33 @@
+2025-07-17 (THURSDAY): SMARTAPESG CAMPAIGN PUSHING NETSUPPORT RAT
+
+REFERENCES:
+
+- https://infosec.exchange/@monitorsg/114867563467717172
+
+COMPROMISED WEBSITE WITH INJECTED SMARTAPESG SCRIPT:
+
+- mexicobusiness[.]news
+
+URLS LEADING TO AND FOR FAKE VERIFICATION PAGE:
+
+- hxxps[:]//as5yo[.]top/xxx/include.js
+- hxxps[:]//as5yo[.]top/xxx/index.php?FGUEgYoL
+- hxxps[:]//as5yo[.]t[op/xxx/buffer.js?31d1935e76
+
+URLS FROM PASTED SCRIPT AND FOR NETSUPPORT RAT ZIP DOWNLOAD:
+
+- hxxp[:]//lpdesigns[.]uk/lal.ps1
+- hxxps[:]//lpdesigns[.]uk/lal.ps1
+- hxxps[:]//lpdesigns[.]uk/bemo.zip?l=5006
+
+NETSUPPORT RAT ZIP PACKAGE:
+
+- SHA256 hash: 6083f9a13c8d26fd26afe3e2befe3f41338441ef6d58efe35682afc5900e4cef
+- File size: 7,553,019 bytes
+- File location: hxxps[:]//lpdesigns[.]uk/bemo.zip
+- File type: Zip archive data, at least v2.0 to extract, compression method=deflate
+
+NETSUPPORT RAT C2 SERVER:
+
+- 185.163.45[.]97:443
+- 
