@@ -1,5 +1,11 @@
 2025-07-22 (TUESDAY): URLS FOR SMARTAPESG CAMPAIGN USING CLICKFIX LURE TO PUSH NETSUPPORT RAT:
 
+REFERENCE:
+
+- https://bsky.app/profile/malware-traffic-analysis.net/post/3lul6rf3py226
+
+URL LIST:
+
 - hxxps[:]//headtechnologies[.]xyz/sourcetag/enroll.js
 - hxxps[:]//headtechnologies[.]xyz/sourcetag/index.php?OQBEsNAg
 - hxxps[:]//headtechnologies[.]xyz/sourcetag/buffer.js?c34e4a6845
