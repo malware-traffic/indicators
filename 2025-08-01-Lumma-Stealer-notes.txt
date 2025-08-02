@@ -11,6 +11,7 @@ PATH TO INITIAL ZIP DOWNLOAD:
 - hxxps[:]//vittuv[.]com/2wDtEn
 - hxxps[:]//media.file3host435[.]xyz/amcap+9.20+full+version+free+download.zip
 
+
 ASSOCIATED FILES:
 
 - SHA256 hash: cd5493ed26881583ade59c526ec39478cbd131eb72b65df2ddaa4b4c88e79ecb
@@ -44,7 +45,7 @@ ASSOCIATED FILES:
 - File description: Data binary created by Lumma Stealer installer and run by copy of AutoIt3.exe as .a3x file
 - Sandbox analysis: https://app.any.run/tasks/bb9ce34a-e9e1-46b0-bdb8-ead35cca7cae
 
-LUMMA STEALER C2 FROM THIS EXAMPLE:
+LUMMA STEALER C2 FOR THIS EXAMPLE (FROM TRIA.GE ANALYSIS):
 
 - hxxps[:]//egomdbj[.]asia/zkjr/api
 - hxxps[:]//mastwin[.]in/qsaz/api
