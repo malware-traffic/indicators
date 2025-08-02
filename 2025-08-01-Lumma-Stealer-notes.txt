@@ -1,0 +1,57 @@
+2025-08-01 (FRIDAY): LUMMA STEALER
+
+NOTES:
+
+- This is Lumma Stealer distributed for victims looking for cracked versions of popular software.
+
+PATH TO INITIAL ZIP DOWNLOAD:
+
+- hxxps[:]//www.facebook[.]com/media/set/?set=a.10160850213333950
+- hxxps[:]//t[.]co/kMHRg3Bo2L
+- hxxps[:]//vittuv[.]com/2wDtEn
+- hxxps[:]//media.file3host435[.]xyz/amcap+9.20+full+version+free+download.zip
+
+ASSOCIATED FILES:
+
+- SHA256 hash: cd5493ed26881583ade59c526ec39478cbd131eb72b65df2ddaa4b4c88e79ecb
+- File size: 17,382,195 bytes
+- File name: amcap 9.20 full version free download.7z
+- File type: 7-zip archive data, version 0.4
+- File description: password-protected 7-zip archive
+- Password: 3318
+
+- SHA256 hash: 0c2b69a75cdc374071e9b91d358c96a537694a256b6fae49f30bf0fcaa1165ac
+- File size: 937,598,919 bytes
+- File name: amcap 9.20 full version free download.exe
+- File type: PE32 executable (GUI) Intel 80386, for MS Windows
+- File description: inflated EXE to install Lumma Stealer (padded with null-bytes)
+
+- SHA256 hash: 22be5a360e9870d0a77d990d5f92d8fb43eb7fdb75853d6bc1c60c467050ba77
+- File size: 31,631,415 bytes
+- File type: PE32 executable (GUI) Intel 80386, for MS Windows
+- File description: above EXE with most of the null-byte padding removed
+- Sandbox analysis: https://tria.ge/250802-axf2cahp6w/behavioral1
+
+- SHA256 hash: 3ec9740bedc683021cc3e94e4a33b3a9d3d6f9b9e96b1f04cc6534f551dd58c1
+- File size: 980,064 bytes
+- File location: C:\Users\[username]\AppData\Local\Temp\528184\Raised.pif
+- File type: PE32 executable (GUI) Intel 80386, for MS Windows
+- File description: Copy of AutoIt3.exe created by the Lumma Stealer installer
+
+- SHA256 hash: 444b803b1a8e1ca836191d87736f9af73171f5e5b5370e9e07587acb05ee8064
+- File size: 534,204 bytes
+- File type: data
+- File description: Data binary created by Lumma Stealer installer and run by copy of AutoIt3.exe as .a3x file
+- Sandbox analysis: https://app.any.run/tasks/bb9ce34a-e9e1-46b0-bdb8-ead35cca7cae
+
+LUMMA STEALER C2 FROM THIS EXAMPLE:
+
+- hxxps[:]//egomdbj[.]asia/zkjr/api
+- hxxps[:]//mastwin[.]in/qsaz/api
+- hxxps[:]//precisionbiomeds[.]com/ikg
+- hxxps[:]//physicianusepeptides[.]com/opu
+- hxxps[:]//vishneviyjazz[.]ru/neco/api
+- hxxps[:]//htsfhtdrjbyy1bgxbv[.]cfd/vcd
+- hxxps[:]//xurekodip[.]com/qpdl
+- hxxps[:]//utvp1[.]net/zkaj
+- hxxps[:]//orienderi[.]com/xori
