@@ -25,6 +25,6 @@ URL CHAIN OF EVENTS:
 
 MY MOST RECENT SUCCESSFUL KONGTUKE ACTIVITY:
 
-- I had what appears to be the same type of malware infection, but a successful infection run.
+- I had what appears to be the same type of malware infection from Kongtuke in June 2025, but it was a successful infection run.
 - This was before Kongtuke started using "FileFix" style ClickFix.
 - Details at: https://www.malware-traffic-analysis.net/2025/06/13/index.html
