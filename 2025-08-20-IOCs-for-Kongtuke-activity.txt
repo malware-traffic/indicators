@@ -2,7 +2,8 @@
 
 REFERENCES:
 
-- 
+- https://infosec.exchange/@monitorsg/115061260245537096
+- https://infosec.exchange/@malware_traffic/115062221525187895
 - https://bsky.app/profile/malware-traffic-analysis.net/post/3lwtw7ftl622s
 
 ASSOCIATED DOMAINS OR IP ADDRESSES:
