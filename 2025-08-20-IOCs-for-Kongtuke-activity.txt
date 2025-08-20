@@ -1,4 +1,9 @@
-2025-08-20 (WEDNESDAY): KONGTUKE ACTIVITY:
+2025-08-20 (WEDNESDAY): KONGTUKE ACTIVITY USING "FILEFIX" STYLE CLICKFIX
+
+REFERENCES:
+
+- 
+- https://bsky.app/profile/malware-traffic-analysis.net/post/3lwtw7ftl622s
 
 ASSOCIATED DOMAINS OR IP ADDRESSES:
 
@@ -16,3 +21,9 @@ URL CHAIN OF EVENTS:
 - hxxp[:]//212.22.86[.]82:2020/home
 - hxxps[:]//comparisons-builder-loves-ratios.trycloudflare[.]com/second.html
 - hxxp[:]//angels-toll-milton-lyrics.trycloudflare[.]com/z9Q0a52vgSE
+
+MY MOST RECENT SUCCESSFUL KONGTUKE ACTIVITY:
+
+- I had what appears to be the same type of malware infection, but a successful infection run.
+- This was before Kongtuke started using "FileFix" style ClickFix.
+- Details at: https://www.malware-traffic-analysis.net/2025/06/13/index.html
