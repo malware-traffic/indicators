@@ -1,0 +1,18 @@
+2025-08-20 (WEDNESDAY): KONGTUKE ACTIVITY:
+
+ASSOCIATED DOMAINS OR IP ADDRESSES:
+
+- netaworldjournal[.]org - Compromised site serves pages with Kongtuke-style injected script
+- bradtae[.]com - Domain showing fake CAPTCHA page
+- 212.22.86[.]82:2020 - Server contacted if user runs pastes and runs the clipboard-injected script
+- comparisons-builder-loves-ratios.trycloudflare[.]com - Domain called by clipboard-injected script
+- angels-toll-milton-lyrics.trycloudflare[.]com - Domain that receives users's system information from HTTP POST request
+
+URL CHAIN OF EVENTS:
+
+- hxxps[:]//netaworldjournal[.]org/
+- hxxps[:]//bradtae[.]com/5tr4r.js
+- hxxps[:]//bradtae[.]com/js.php?device=windows&ip=[base64 text]&refferer=[base64 text]&domain=[base64 text]&loc=[base64 text]&is_ajax=1
+- hxxp[:]//212.22.86[.]82:2020/home
+- hxxps[:]//comparisons-builder-loves-ratios.trycloudflare[.]com/second.html
+- hxxp[:]//angels-toll-milton-lyrics.trycloudflare[.]com/z9Q0a52vgSE
