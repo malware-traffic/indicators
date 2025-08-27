@@ -9,7 +9,7 @@ INDICATORS:
 
 PAGE FROM COMPROMISED SITE WITH INJECTED SMARTAPESG SCRIPT:
 
-- hxxps[:]//spotlightonpoverty.org/
+- hxxps[:]//spotlightonpoverty[.]org/
 
 URL FROM INJECTED SMARTAPESG SCRIPT:
 
@@ -36,5 +36,6 @@ EXAMPLE OF MSI FOR NETSUPPORT RAT RETRIEVED BY ABOVE CLICFIX SCRIPT:
 - File type: Microsoft Installer (.msi) file
 
 NETSUPPORT RAT C2 SERVER:
+
 
 - 194.37.97[.]139:443
