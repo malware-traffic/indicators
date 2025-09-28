@@ -2,9 +2,9 @@
 
 REFERENCES:
 
-- 
-- 
-- 
+- https://infosec.exchange/@malware_traffic/115283052085453494
+- https://bsky.app/profile/malware-traffic-analysis.net/post/3lzvywgflok2y
+- https://www.linkedin.com/posts/bradley-duncan-13477868_rmm-malware-activity-7378116783456776192-gx-h/
 
 NOTE:
 
