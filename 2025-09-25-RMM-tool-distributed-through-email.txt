@@ -1,0 +1,51 @@
+2025-09-25 (THURSDAY): RMM TOOL DISTRIBUTED THROUGH EMAIL
+
+REFERENCES:
+
+- 
+- 
+- 
+
+NOTE:
+
+- More info on Remote Monitoring and Management (RMM) tools at:
+  -- https://www.proofpoint.com/us/blog/threat-insight/remote-monitoring-and-management-rmm-tooling-increasingly-attackers-first-choice
+
+CHAIN OF EVENTS:
+
+- Email --> link --> download and run EXE
+
+SELECT EMAIL HEADERS:
+
+- Return-Path: <0100019981bd39e1-64ae37d0-6595-4fca-bc6c-3ab8cee5c711-000000@notifications.email.frame[.]io>
+- Received: from a9-32.smtp-out.amazonses.com (a9-32.smtp-out.amazonses[.]com [54.240.9[.]32])
+- From: "Mark Anthony Duncan (via Frame.io)" <notifications@frame[.]io>
+- Subject: Mark Anthony Duncan shared “SECURE DOCUMENT” with you
+- Date: Thu, 25 Sep 2025 16:38:06 +0000
+- Message-ID: <0100019981bd39e1-64ae37d0-6595-4fca-bc6c-3ab8cee5c711-000000@email.amazonses[.]com>
+
+LINK FROM THE EMAIL:
+
+- hxxps[:]//next.frame[.]io/share/6ebebb75-7e8f-450b-8e4d-414a9a72a759?
+  component_clicked=transactional_call_to_action&
+  email_id=f5a48276-9dc1-4f23-b4b4-4b2571bd64cc&
+  email_type=transactional&
+  notification_type=share_reviewer_added
+
+FRAME[.]IO PAGE:
+
+- hxxps[:]//next.frame[.]io/share/6ebebb75-7e8f-450b-8e4d-414a9a72a759/view/
+  d04a83d7-1411-4724-9c63-b2e88c064ca5
+
+LINK FROM FRAME[.]IO PAGE:
+
+- hxxps[:]//tinyurl[.]com/3ct76nyn
+
+MALICIOUS FILE INFO:
+
+- SHA256 hash: f65a9f2a13dc334628cf4b60789a1e1164e9380cea1ea1077b3b37dd284eecb3
+- File size: 24,444,392 bytes
+- File location: hxxps[:]//pub-1e3db9f8f16642389256a57f0a2535dd.r2[.]dev/Adobe.exe
+- File type: PE32 executable (GUI) Intel 80386, for MS Windows
+- Sandbox analysis: https://app.any.run/tasks/a63a5d56-a254-4724-8cab-0e8c3ced0ff4
+- Sandbox analysis: https://tria.ge/250927-m5tzdsyydt
