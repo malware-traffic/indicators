@@ -1,0 +1,46 @@
+2025-09-29 (MONDAY): RMM TOOL DISTRIBUTED THROUGH EMAIL
+
+NOTES:
+
+- This is a follow-up from the same campaign I saw last week:
+  -- https://github.com/malware-traffic/indicators/blob/main/2025-09-25-RMM-tool-distributed-through-email.txt
+- I've been getting one or two of these emails almost every day since then.
+- More info on Remote Monitoring and Management (RMM) tools at:
+  -- https://www.proofpoint.com/us/blog/threat-insight/remote-monitoring-and-management-rmm-tooling-increasingly-attackers-first-choice
+
+CHAIN OF EVENTS:
+
+- Email --> link --> download and run EXE
+
+SELECT EMAIL HEADERS:
+
+- Return-Path: <0100019997ad988e-8d869e1a-117d-4074-b4e0-3007733eef63-000000@notifications.email.frame[.]io>
+- Received: from a9-112.smtp-out.amazonses[.]com (a9-112.smtp-out.amazonses.com [54.240.9[.]112])
+- From: "Wiikins Via DocuSign (via Frame[.]io)" <notifications@frame[.]io>
+- Subject: Wiikins Via DocuSign shared “SECURE DOCUMENT” with you
+- Date: Mon, 29 Sep 2025 22:52:40 +0000
+- Message-ID: <0100019997ad988e-8d869e1a-117d-4074-b4e0-3007733eef63-000000@email.amazonses[.]com>
+
+LINK FROM THE EMAIL:
+
+- hxxps[:]//next.frame[.]io/d5ee2df1-dac6-4161-b521-9fd746f05e8a?
+  component_clicked=transactional_call_to_action&
+  email_id=e1edc66d-eb03-4072-b14c-a2409d71a985&
+  email_type=transactional&
+  notification_type=share_reviewer_added
+
+FRAME[.]IO PAGE:
+
+- hxxps[:]//next.frame[.]io/share/d5ee2df1-dac6-4161-b521-9fd746f05e8a/view/
+  831057cd-e7b0-4992-bac3-d1fbdaf6853f
+
+LINK FROM FRAME[.]IO PAGE:
+
+- hxxps[:]//tinyurl[.]com/4d2px8hv
+
+MALICIOUS FILE INFO:
+
+- SHA256 hash: f3659b83f32ff128eed855d35ee5de2f2a4d88e70c495aac5432e8433bab8e76
+- File size: 24,444,392 bytes
+- File location: hxxps[:]//pub-eca5197dadd64467ac48596102af55b0.r2[.]dev/Adobe_Acrobat.exe
+- File type: PE32 executable (GUI) Intel 80386, for MS Windows
