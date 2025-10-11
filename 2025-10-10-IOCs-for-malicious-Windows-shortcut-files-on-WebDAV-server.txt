@@ -5,6 +5,7 @@ NOTES:
 - Was originally looking for Koi Loader/Koi Stealer, but found something else.
 - Yesterday, the files on the WebDAV server retrieved a ScreenConnect malicious package.
 - I'm not sure what this is supposed to be.
+- I had to run the final EXE on a physical host, because it didn't do anything in a VM.
 
 INITIAL WINDOWS SHORTCUTS ON WEBDAV SERVER:
 
