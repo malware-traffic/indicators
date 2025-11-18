@@ -2,6 +2,7 @@
 
 REFERENCES:
 
+- https://infosec.exchange/@malware_traffic/115571641156905015
 - https://isc.sans.edu/diary/KongTuke+activity/32498
 
 INFORMATION:
