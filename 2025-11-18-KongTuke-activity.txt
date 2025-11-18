@@ -1,0 +1,25 @@
+2025-11-18: KONGTUKE ACTIVITY
+
+REFERENCES:
+
+- https://isc.sans.edu/diary/KongTuke+activity/32498
+
+INFORMATION:
+
+[compromised site]
+
+KONGTUKE SCRIPT IN PAGE FROM COMPROMISED SITE:
+
+- hxxps[:]//apraadhi[.]com/6h9k.js
+
+FAKE CAPTCHA PAGE THAT INJECTS CLICKFIX CONTENT INTO CLIPBOARD:
+
+- hxxps[:]//apraadhi[.]com/js.php?device=windows&ip=[base64 text]&refferer=[base64 text]&browser=[base64 text]&ua=[base64 text]&loc=VVM=&is_ajax=1
+
+URL FROM THE CLICKFIX CONTENT:
+
+- hxxp[:]//69.67.172[.]194:6655/ab
+
+FOLLOW-UP URL:
+
+- hxxp[:]//69.67.172[.]194:6655/se
