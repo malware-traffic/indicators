@@ -1,0 +1,165 @@
+2026-02-01 (SUNDAY): LUMMA STEALER ACTIVITY 
+
+NOTES:
+
+- Whenever I want to find Lumma Stealer, I do a Google search for cracked software, specifying site:drive.google[.]com.
+- I can always find files posted on Google Drive with links to malware posting as cracked software.
+- These are always password-protected 7-zip archives that contain inflated EXE files padded with null bytes.
+- Below are 16 examples of Google Drive URLs and what I they led to.
+
+MALICIOUS URLS IN ALPHABETICAL ORDER:
+
+- Mote: drive.google[.]com is not a malicious domain, but has been abused to host these malicious URLs:
+
+- hxxps[:]//drive.google[.]com/file/d/1a51AdpgMpJg3-y_QLM3jgGfg-Ybg-Y14/
+- hxxps[:]//drive.google[.]com/file/d/1CK79YwW2jbULhYajDvkJP-1HhXKq6y_b/
+- hxxps[:]//drive.google[.]com/file/d/1Z_RBDvYSbiwKocQGut7mQaqHLrOPnYZy/
+- hxxps[:]//drive.google[.]com/file/d/17msSlg-HnpPvzhtXsykIcT_KVGzDOu9w/
+- hxxps[:]//drive.google[.]com/file/d/1Xa8x5rSY9CFtmsaAaxEyLblI03dB8MYl/
+- hxxps[:]//drive.google[.]com/file/d/1H911tUY6A1SYOSCzMfzQ8gWJJZdW2BGL/
+- hxxps[:]//drive.google[.]com/file/d/1JrrKeuTEco239dNDOK6TbYBJ0ByrzfnA/
+- hxxps[:]//drive.google[.]com/file/d/113Vw55vh-uMbpFoCV7scOnnMZhI7fJQt/
+- hxxps[:]//drive.google[.]com/file/d/1ujSmpvyaE1xx7XLbEQ-35Qyd4IknugsZ/
+- hxxps[:]//drive.google[.]com/file/d/1GhN_5h3eR-80e4hKN0kPfDuyHD8QloJN/
+- hxxps[:]//drive.google[.]com/file/d/1cZh98NNRMv1WXMujh6J0NOSQspYRYXcf/
+- hxxps[:]//drive.google[.]com/file/d/1aNte1aSMT9EjEia_KVH_xTS3AKqo_ht3/
+- hxxps[:]//drive.google[.]com/file/d/12CRuzce_XvSlmb08XL5uYWIgy32ayuh2/
+- hxxps[:]//drive.google[.]com/file/d/1HCwGmQfA44T-qb-mm4hFLYmaGup073o5/
+- hxxps[:]//drive.google[.]com/file/d/1L3YbITQqAwAk335fB9FoHxCNj-Ar1613/
+- hxxps[:]//drive.google[.]com/file/d/1WBVAXNpXE8HlLM3mq_YBuD-71m2RD6nD/
+
+MALICIOUS DOMAINS IN ALPHABETICAL ORDER:
+
+- arch.maxdatahost2[.]homes
+- bbttz[.]com
+- ccgcg[.]com
+- dysscy[.]com
+- hiyter[.]com
+- media.clouddatavault4[.]lol
+- socvy[.]com
+- tragedj[.]cyou
+- vimbil[.]com
+- vroops[.]com
+
+EXAMPLES OF PDF FILES HOSTED ON GOOGLE DRIVE THAT LINK TO MALWARE:
+
+- hxxps[:]//drive.google[.]com/file/d/1a51AdpgMpJg3-y_QLM3jgGfg-Ybg-Y14/edit?pierinnetsto=efirscofel
+- hxxps[:]//drive.google[.]com/file/d/1CK79YwW2jbULhYajDvkJP-1HhXKq6y_b/edit?agjulinkmo=diranentpe
+- hxxps[:]//drive.google[.]com/file/d/1Z_RBDvYSbiwKocQGut7mQaqHLrOPnYZy/edit?suyternuona=smicneseade
+- hxxps[:]//drive.google[.]com/file/d/17msSlg-HnpPvzhtXsykIcT_KVGzDOu9w/view
+- hxxps[:]//drive.google[.]com/file/d/1Xa8x5rSY9CFtmsaAaxEyLblI03dB8MYl/edit?jucalretam=scentoollaulau
+- hxxps[:]//drive.google[.]com/file/d/1H911tUY6A1SYOSCzMfzQ8gWJJZdW2BGL/edit?exilresco=zaberkopho
+- hxxps[:]//drive.google[.]com/file/d/1JrrKeuTEco239dNDOK6TbYBJ0ByrzfnA/edit?chitfimomi=tresatnterri
+- hxxps[:]//drive.google[.]com/file/d/113Vw55vh-uMbpFoCV7scOnnMZhI7fJQt/edit?errenores=tawarroodown
+- hxxps[:]//drive.google[.]com/file/d/1ujSmpvyaE1xx7XLbEQ-35Qyd4IknugsZ/edit?etalexaf=icmajarrisk
+- hxxps[:]//drive.google[.]com/file/d/1GhN_5h3eR-80e4hKN0kPfDuyHD8QloJN/edit?zavefeza=tecohexmo
+- hxxps[:]//drive.google[.]com/file/d/1cZh98NNRMv1WXMujh6J0NOSQspYRYXcf/edit?guigrapdeephi=larebigli
+- hxxps[:]//drive.google[.]com/file/d/1aNte1aSMT9EjEia_KVH_xTS3AKqo_ht3/edit?virostlidum=inantrodam
+- hxxps[:]//drive.google[.]com/file/d/12CRuzce_XvSlmb08XL5uYWIgy32ayuh2/edit?imomkaibeng=cingmistnantla
+- hxxps[:]//drive.google[.]com/file/d/1HCwGmQfA44T-qb-mm4hFLYmaGup073o5/edit?taretenal=erborletep
+- hxxps[:]//drive.google[.]com/file/d/1L3YbITQqAwAk335fB9FoHxCNj-Ar1613/view?trasminggreenre=nemynana
+- hxxps[:]//drive.google[.]com/file/d/1WBVAXNpXE8HlLM3mq_YBuD-71m2RD6nD/view?subssimarchant=jaydroplocoun
+
+LINKS FROM THE ABOVE GOOGLE DOCUMENTS:
+
+- hxxps[:]//ccgcg[.]com/2DYPrL
+- hxxps[:]//ccgcg[.]com/2E74fy
+- hxxps[:]//ccgcg[.]com/2DVPAW
+- hxxps[:]//hiyter[.]com/2HyS5g
+- hxxps[:]//vroops[.]com/2JhhhJ
+- hxxps[:]//vroops[.]com/2JwE92
+- hxxps[:]//vimbil[.]com/2EFVa0
+- hxxps[:]//ccgcg[.]com/2EpS2j
+- hxxps[:]//vimbil[.]com/2Ey4A6
+- hxxps[:]//socvy[.]com/2DAk3a
+- hxxps[:]//ccgcg[.]com/2ElNdT
+- hxxps[:]//dysscy[.]com/2DApBc
+- hxxps[:]//ccgcg[.]com/2DKeUS
+- hxxps[:]//bbttz[.]com/2DqZ30
+- hxxps[:]//vroops[.]com/2J7aHM
+- hxxps[:]//vroops[.]com/2Jt1fM
+
+REDIRECTED URLS FROM THE ABOVE URLS:
+
+- hxxps[:]//media.clouddatavault4[.]lol/ArcGIS+10.7.1+Crack+With+Latest+Version+2020+Download.zip?c=176999572954579083&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/imyfone+ultra+repair+full+crack.zip?c=176999627572396654&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/typing+master+pro+full+version+typing+tutor.zip?c=17699964719662865&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/Download+Dc+Unlocker+2+Client+Cracked+Full+Version.zip?c=176999669398175272&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/ansys+cracked+version+free+download.zip?c=176999688182251228&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/free+download+archicad+19+full+version+with+crack.zip?c=176999703538636900&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/download+imyfone+lockwiper+android+full+crack.zip?c=176999716962968905&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/matlab+2020+cracked+version+free+download.zip?c=176999729999111804&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/Best+PC+Games+Download+Free+Full+Version+-+Page+5.zip?c=176999747824548331&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/internet+download+manager+7.1+full+cracked+lifetime+version.zip?c=176999763341069864&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/download+microsoft+office+365+free+full+version.zip?c=176999779414688857&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/how+to+download+solidworks+2022+crack+version.zip?c=176999796822589050&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/movavi+video+editor+cracked+version+download.zip?c=176999816340377490&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/sky+email+extractor+cracked+download.zip?c=176999828833395051&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/Acronis+True+Image+2014+Download+Full+Version+-+Crack.zip?c=176999841109097631&s=src2
+- hxxps[:]//media.clouddatavault4[.]lol/abaqus+software+free+download+full+version+with+crack.zip?c=176999853694659119&s=src2
+
+EXAMPLES OF URLS FOR THE INITIAL FILE DOWNLOAD:
+
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/YbT5JWigShePWrkCx35t4wsu/ArcGIS%2010.7.1%20Crack%20With%20Latest%20Version%202020%20Download.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/E8fq6yqJ5cAcwNLrp4c062rx/imyfone%20ultra%20repair%20full%20crack.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/DXyW8bgXWK93yUCrHgJehMAv/typing%20master%20pro%20full%20version%20typing%20tutor.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/khki69AHGiaGtaJKxZujEyif/Download%20Dc%20Unlocker%202%20Client%20Cracked%20Full%20Version.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/0rWsbF4WiDrxIFYdpYB3BlhI/ansys%20cracked%20version%20free%20download.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/Do9SH7spdrbzFnx4nKBIowQZ/free%20download%20archicad%2019%20full%20version%20with%20crack.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/QqFCJM9ToqTAxRYUqfDXgbDh/download%20imyfone%20lockwiper%20android%20full%20crack.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/bo8lEk9xyb1tk4c5u0lS6Qnz/matlab%202020%20cracked%20version%20free%20download.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/hfJzY2i52ebzCa62NBE2TRt3/Best%20PC%20Games%20Download%20Free%20Full%20Version%20-%20Page%205.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/7TWt6YTq2LtLm3BJMcXRIYVD/internet%20download%20manager%207.1%20full%20cracked%20lifetime%20version.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/nJmi2MgUMVpJtqF63KFHEqF0/download%20microsoft%20office%20365%20free%20full%20version.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/OdnIZWjSaaQy8KY4xCWzJP2U/how%20to%20download%20solidworks%202022%20crack%20version.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/ciwQSjN1HjVxbeJflp4piXTR/movavi%20video%20editor%20cracked%20version%20download.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/Htl1SWz4KfoCL2QCdV492ywb/sky%20email%20extractor%20cracked%20download.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/C700tw1CPd6yUChxrK6qnKxp/Acronis%20True%20Image%202014%20Download%20Full%20Version%20-%20Crack.zip
+- hxxps[:]//arch.maxdatahost2[.]homes/e/get/PBrSmEtSDKXJCJJt14N8kjlY/abaqus%20software%20free%20download%20full%20version%20with%20crack.zip
+
+EXAMPLE OF DOWNLOADED FILES:
+
+- Password: 1197 - 15,848 bytes - ArcGIS 10.7.1 Crack With Latest Version 2020 Download.7z
+- Password: 3234 - 15,706 bytes - imyfone ultra repair full crack.7z
+- Password: 7048 - 15,647 bytes - typing master pro full version typing tutor.7z
+- Password: 7048 - 15,647 bytes - Download Dc Unlocker 2 Client Cracked Full Version.7z
+- Password: 1227 - 15,702 bytes - ansys cracked version free download.7z
+- Password: 8521 - 15,757 bytes - free download archicad 19 full version with crack.7z
+- Password: 8521 - 15,757 bytes - download imyfone lockwiper android full crack.7z
+- Password: 8521 - 15,757 bytes - matlab 2020 cracked version free download.7z
+- Password: 7815 - 15,737 bytes - Best PC Games Download Free Full Version - Page 5.7z
+- Password: 9769 - 15,700 bytes - internet download manager 7.1 full cracked lifetime version.7z
+- Password: 9769 - 15,700 bytes - download microsoft office 365 free full version.7z
+- Password: 6410 - 15,680 bytes - how to download solidworks 2022 crack version.7z
+- Password: 6410 - 15,680 bytes - movavi video editor cracked version download.7z
+- Password: 3269 - 15,739 bytes - sky email extractor cracked download.7z
+- Password: 3269 - 15,739 bytes - Acronis True Image 2014 Download Full Version - Crack.7z
+- Password: 3692 - 15,836 bytes - abaqus software free download full version with crack.7z
+
+DETAILED INFORMATION ON THE FIRST DOWLOAD FROM THE ABOVE LIST:
+
+- SHA256 hash: fb720267d42d8f2436fbf88333f8a167df27b9fb5b75e9dd6cfcc6abe80e739b
+- File size: 15,848 bytes
+- File name: ArcGIS 10.7.1 Crack With Latest Version 2020 Download.7z
+- File type: 7-zip archive data, version 0.4
+- File description: Password-protected 7-zip archive
+- Password: 1197
+
+EXE EXTRACTED FROM THE ABOVE FILE:
+
+- SHA256 hash: a2fb8c3ec99d4982a2951eb7e83cfa29a70ead1c8ed532b84b51408d94a28757
+- File size: 917,268 bytes
+- File name: arcgis 10.7.1 crack with latest version 2020 download.exe
+- File type: PE32 executable (GUI) Intel 80386, for MS Windows
+- File description: Extracted from the 7-zip archive, this is an inflated EXE padded with null bytes
+
+DEFLATED EXE WITH MOST OF THE NULL BYTES REMOVED:
+
+- SHA256 hash: f664ae99a6b3604b6f6bbfa4493bd50b8b9087fa6015dfcfe862cbf8a27a7942
+- File size: 33,313,356 bytes
+- File type: PE32 executable (GUI) Intel 80386, for MS Windows
+- File description: The above EXE with most of the null bytes removed
+
+DOMAIN FOR LUMMA STEALER POST-INFECTION TRAFFIC WHEN RUN IN MY LAB:
+
+- tragedj[.]cyou
