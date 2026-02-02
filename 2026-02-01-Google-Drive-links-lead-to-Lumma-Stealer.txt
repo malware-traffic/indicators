@@ -3,9 +3,9 @@
 NOTES:
 
 - Whenever I want to find Lumma Stealer, I do a Google search for cracked software, specifying site:drive.google[.]com.
-- I can always find files posted on Google Drive with links to malware posting as cracked software.
-- These are always password-protected 7-zip archives that contain inflated EXE files padded with null bytes.
-- Below are 16 examples of Google Drive URLs and what I they led to.
+- I can always find files posted on Google Drive with links to malware that pose as cracked software.
+- These are always password-protected 7-Zip archives that contain inflated EXE files padded with null bytes.
+- Below are 16 examples of Google Drive URLs and what they led to.
 
 MALICIOUS URLS IN ALPHABETICAL ORDER:
 
@@ -136,13 +136,13 @@ EXAMPLE OF DOWNLOADED FILES:
 - Password: 3269 - 15,739 bytes - Acronis True Image 2014 Download Full Version - Crack.7z
 - Password: 3692 - 15,836 bytes - abaqus software free download full version with crack.7z
 
-DETAILED INFORMATION ON THE FIRST DOWLOAD FROM THE ABOVE LIST:
+DETAILED INFORMATION ON THE FIRST DOWNLOAD FROM THE ABOVE LIST:
 
 - SHA256 hash: fb720267d42d8f2436fbf88333f8a167df27b9fb5b75e9dd6cfcc6abe80e739b
 - File size: 15,848 bytes
 - File name: ArcGIS 10.7.1 Crack With Latest Version 2020 Download.7z
 - File type: 7-zip archive data, version 0.4
-- File description: Password-protected 7-zip archive
+- File description: Password-protected 7-Zip archive
 - Password: 1197
 
 EXE EXTRACTED FROM THE ABOVE FILE:
@@ -151,13 +151,14 @@ EXE EXTRACTED FROM THE ABOVE FILE:
 - File size: 917,268 bytes
 - File name: arcgis 10.7.1 crack with latest version 2020 download.exe
 - File type: PE32 executable (GUI) Intel 80386, for MS Windows
-- File description: Extracted from the 7-zip archive, this is an inflated EXE padded with null bytes
+- File description: Extracted from the 7-Zip archive, this is an inflated EXE padded with null bytes
 
 DEFLATED EXE WITH MOST OF THE NULL BYTES REMOVED:
 
 - SHA256 hash: f664ae99a6b3604b6f6bbfa4493bd50b8b9087fa6015dfcfe862cbf8a27a7942
 - File size: 33,313,356 bytes
 - File type: PE32 executable (GUI) Intel 80386, for MS Windows
+
 - File description: The above EXE with most of the null bytes removed
 
 DOMAIN FOR LUMMA STEALER POST-INFECTION TRAFFIC WHEN RUN IN MY LAB:
