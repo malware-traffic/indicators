@@ -1,0 +1,46 @@
+2026-09-21 (MONDAY): KONGTUKE ACTIVITY:
+
+TWO DIFFERENT SCRIPT INJECTS LEADING TO TWO DOMAINS PASSING THE SAME KONGTUKE TRAFFIC:
+
+- hxxps[:]//rooinson[.]icu/omi7f8qa.js
+- hxxps[:]//rooinson[.]icu/api/v1/e08a3c4
+- hxxps[:]//rooinson[.]icu/api/v1/0044d4a
+- hxxps[:]//rooinson[.]icu/api/v1/0044d4a
+- hxxps[:]//rooinson[.]icu/api/v1/4aff112?tk=d79ba5c7d6bddf1821682bd1693a8013
+
+- hxxps[:]//yelahaye[.]surf/2uskhr6s.js
+- hxxps[:]//yelahaye[.]surf/api/v1/e08a3c4
+- hxxps[:]//yelahaye[.]surf/api/v1/0044d4a
+- hxxps[:]//yelahaye[.]surf/api/v1/0044d4a
+- hxxps[:]//yelahaye[.]surf/api/v1/4aff112?tk=0aab188e5a6547623b7796b1aefbcbb6
+
+FOLLOW-UP URL FOR THE FAKE VERIFICATION PAGE:
+
+- hxxps[:]//robertsoe[.]lol/cf/turnstile_frame_light.html?lang=auto
+
+KONGTUKE DOMAIN TRACKING USER ACTIONS UNTIL FAKE VERIFICAITON PAGE IS CLOSED:
+
+- hxxps[:]//yelahaye[.]surf/api/v1/b832c14?e=vclick
+- hxxps[:]//yelahaye[.]surf/api/v1/b832c14?e=copy
+- hxxps[:]//yelahaye[.]surf/api/v1/4aff112?tk=0aab188e5a6547623b7796b1aefbcbb6&w=1
+- [above repeated several times]
+- hxxps[:]//yelahaye[.]surf/api/v1/b832c14?e=vclose
+
+SHA256 HASH OF THE CLICKFIX TEXT (.BAT):
+
+- 9d597a56fdc169db452e412e0cb2a2c1b4a6124704f108e6eafd928ffbc6445c
+
+INITIAL URL FROM THE CLICKFIX TEXT:
+
+- hxxps[:]//portaltrust8347[.]com/b?t=VZ0KCKza
+
+EXAMPLE OF INITIAL MALWARE C2 TRAFFIC:
+
+- hxxps[:]//portaltrust8347[.]com/agent/v2/handshake
+- hxxps[:]//portaltrust8347[.]com/agent/v2/beacon
+- hxxps[:]//portaltrust8347[.]com/agent/v2/task-ack
+- hxxps[:]//portaltrust8347[.]com/agent/v2/beacon
+- [above repeated several times]
+- hxxps[:]//portaltrust8347[.]com/agent/v2/result
+- hxxps[:]//portaltrust8347[.]com/agent/v2/beacon
+- [above repeated several times]
