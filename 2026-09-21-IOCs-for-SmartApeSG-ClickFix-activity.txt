@@ -1,0 +1,40 @@
+2026-09-21 (MONDAY): SMARTAPESG CLICKFIX PUSHES CNCMACHINERMS RAT
+
+NOTES:
+
+- The unidentified RAT I've seen from SmartApeSG ClickFix has been documented as CNCMachineRMS RAT:
+ -- https://www.levelblue.com/blogs/spiderlabs-blog/cncmachinerms-the-undocumented-rat-at-the-end-of-a-babadeda-chain
+ -- https://www.netresec.com/?page=Blog&month=2026-08&post=CNCMachineRMS-C2-Protocol
+
+EXAMPLE OF SMARTAPESG TRAFFIC FOR FAKE VERFICIATION PAGE:
+
+- hxxps[:]//planetreeapse[.]co/reset/identity-compiler.js
+- hxxps[:]//planetreeapse[.]co/reset/realm-xml?BQhLidpT
+- hxxps[:]//planetreeapse[.]co/reset/reset-server.js?18d76d28359e01f8
+
+TRAFFIC FROM RUNNING COMMAND FROM CLICKFIX TEXT FROM THE FAKE VERFICIATION PAGE:
+
+- hxxp[:]//wadiandagate[.]com/ewq
+- hxxps[:]//wadiandagate[.]com/ewq
+- hxxp[:]//wadiandagate[.]com/rope
+- hxxps[:]//wadiandagate[.]com/rope
+
+EXAMPLE OF HTA FILE RETRIEVED BY CLICKFIX TEXT:
+
+- SHA256 hash: dcad083d0eb0a3bf58316efebc37281aeb99b6ed5486db19c489c2e30f0abc57
+- File size: 59,879 bytes
+- File type: HTML document text, ASCII text, with very long lines
+- Retrieved from: hxxps[:]//wadiandagate[.]com/ewq
+- Saved as: C:\Users\[username]\AppData\Local\pto.hta
+
+RETRIEVED BY ABOVE HTA FILE, A ZIP ARCHIVE CONTAINING FILES FOR CNCMACHINERMS RAT:
+
+- SHA256 hash: 43595d70a073c8a9332616bdc118cbde861866a67d366d535f1b72cab0ce6442
+- File size: 21,158,539 bytes
+- File type: Zip archive data, at least v2.0 to extract
+- Retrieved from: hxxps[:]//wadiandagate[.]com/rope
+- Saved as: C:\Users\[username]\Documents\422416453234015360\422416453234015360.pdf
+
+CNCMACHINERMS C2 TRAFFIC:
+
+- tcp[:]//144.124.242[.]171:443
