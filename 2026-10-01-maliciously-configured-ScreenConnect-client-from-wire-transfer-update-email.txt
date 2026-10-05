@@ -1,0 +1,34 @@
+2026-10-01 (THURSDAY): EMAIL PUSHING MALICIOUSLY-CONFIGURED SCREENCONNECT CLIENT
+
+EMAIL:
+--------------------------------------
+Received: from eiea-sy[.]org (unknown [45.116.76[.]29])
+	[information removed]; Thu, 01 Oct 2026 17:44:02 +0000 (UTC)
+From: finance@eiea-sy[.]org
+Subject: Wire Transfer Update
+Date: 02 Oct 2026 01:43:40 +0800
+Message-ID: <20261002014340.F2422A8B94679D33@eiea-sy[.]org>
+
+Paid Invoice Receipt
+
+Payment of $5745.65 was Received.
+
+Please click here to view your Order Information in PDF
+
+If this charge wasn't authorized by you, contact our customer service to cancel and
+receive an immediate refund.
+
+Digitally Yours,
+Customer Support: +1(332)638474823
+--------------------------------------
+
+LINK FROM THE MESSAGE:
+
+hxxps[:]//thelittlecupandsaucer[.]com[.]au/ScreenConnect.ClientSetup.exe
+
+MALICIOUSLY-CONFIGURED SCREENCONNECT CLIENT:
+
+- SHA-256 hash: 0f223dda258116b23a3f856b76c346f75d24ffde2dba7598110b80f262587288
+- File size: 20,779,064 bytes
+- File Name: ScreenConnect.ClientSetup.exe
+- File type: PE32 executable (GUI) Intel 80386, for MS Windows
